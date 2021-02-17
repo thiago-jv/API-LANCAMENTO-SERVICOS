@@ -49,6 +49,7 @@ http://localhost:8080/swagger-ui.html#/
 
 ![Swagger](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/Swagger.png)
 
+```
 Com a API em no ar, os testes podem ser realizados, porem caso queira testar os testes de integrações e endPoints criados, será necessáio abrir o projeto no IDE-ECLIPSE e testar os itens na seguinte sequencia ->
 1- Tipo Equipamento
 2- Equipamento
@@ -56,3 +57,4 @@ Com a API em no ar, os testes podem ser realizados, porem caso queira testar os 
 4- Cliente
 5- Servico
 Os passo acima devem ser sequidos para os testes no PostMan.
+```
