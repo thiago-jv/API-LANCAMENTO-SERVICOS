@@ -11,12 +11,12 @@ Instalar e configurar o java, caso não esteja segue o link ![java](https://medi
 
 # Diagrama do projeto
 
-![Ordem de Serviço](https://github.com/thiago-jv/API_Rest-SpringBoot-SpringData-Swagger-TDD-H2-/blob/main/Ordem%20de%20Servi%C3%A7o.png)
+![Ordem de Serviço](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/Estrutura%20do%20projeto.png)
 
 
 # Estrutura do projeto
 
-![Estrutura do Projeto](https://github.com/thiago-jv/API_Rest-SpringBoot-SpringData-Swagger-TDD-H2-/blob/main/Estrutura%20do%20projeto.png)
+![Estrutura do Projeto](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/Ordem%20de%20Servi%C3%A7o.png)
 
 
 # Tecnologias utilizadas e outros
