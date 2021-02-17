@@ -1,5 +1,4 @@
-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2-
-Projeto demonstrativo de ordem de serviço, utiizando Spring Boot, Rest Api, Spring Data JPA, Swagger, Maven e H2 Database.
+Projeto demonstrativo de ordem de serviço, utilizando Spring Boot, Rest Api, Spring Data JPA, Swagger, Maven e H2 Database.
 
 
 # Pré-requisitos
