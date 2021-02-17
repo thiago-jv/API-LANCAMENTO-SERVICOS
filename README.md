@@ -40,9 +40,4 @@ Instalar e configurar o java, caso não esteja segue o link ![java](https://medi
 
 # Acesso ao banco H2
 
-![Acesso H2](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/H2-Home.png)
-
-![Tables H2](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/H2-tables.png)
-
-
 
