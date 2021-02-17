@@ -30,7 +30,7 @@ Instalar e configurar o java, caso não esteja segue o link ![java](https://medi
  8- Swagger 2
 ```
 
-# Tecnologias utilizadas e outros
+# Proceso para rodar o projeto
 ```
 1- git int na sua parsta que irá baixar o projeto, caso não tenha criado o repositorio local.
 2- git clone https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2.git
