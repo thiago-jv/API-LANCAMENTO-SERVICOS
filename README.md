@@ -45,5 +45,6 @@ Instalar e configurar o java, caso não esteja segue o link ![java](https://medi
 ![Tables H2](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/H2-tables.png)
 
 # Documentação do sistema com Swagger
+http://localhost:8080/swagger-ui.html#/
 
 ![Swagger](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/Swagger.png)
