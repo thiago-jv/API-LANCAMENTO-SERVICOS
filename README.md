@@ -3,9 +3,9 @@ Projeto demonstrativo de ordem de serviço, utilizando Spring Boot, Rest Api, Sp
 
 # Pré-requisitos
 
-O maven deve está instalado, caso não esteja segue o link ![maven](https://dicasdejava.com.br/como-instalar-o-maven-no-windows/)
+O maven deve está instalado, caso não esteja segue o link [maven](https://dicasdejava.com.br/como-instalar-o-maven-no-windows/)
 
-Instalar e configurar o java, caso não esteja segue o link ![java](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
+Instalar e configurar o java, caso não esteja segue o link [java](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
 
 
 # Diagrama do projeto
