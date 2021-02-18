@@ -64,5 +64,5 @@ Com a API em no ar, os testes podem ser realizados, porem caso queira testar os 
 3- Profissional
 4- Cliente
 5- Servico
-Os passo acima devem ser sequidos para os testes no PostMan.
+Os passo acima devem ser seguidos para os testes no PostMan.
 ```
