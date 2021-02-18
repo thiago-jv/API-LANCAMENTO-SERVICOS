@@ -21,21 +21,21 @@ Instalar e configurar o java, caso não esteja segue o link ![java](https://medi
 # Tecnologias utilizadas e outros
 
  
- 1- Java 8 ![Sobre](https://www.java.com/pt-BR/download/help/java8_pt-br.html)
+ 1- Java 8 [Sobre](https://www.java.com/pt-BR/download/help/java8_pt-br.html)
  
- 2- H2 Database ![Sobre](https://www.h2database.com/html/main.html)
+ 2- H2 Database [Sobre](https://www.h2database.com/html/main.html)
  
- 3- SpringBoot 1.5.4.RELEASE ![Sobre](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+ 3- SpringBoot 1.5.4.RELEASE [Sobre](https://docs.spring.io/spring-boot/docs/current/reference/html/)
  
- 4- SpringData ![Sobre](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference) 
+ 4- SpringData [Sobre](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference) 
  
- 5- Maven 3.6.3 ![Sobre](https://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
+ 5- Maven 3.6.3 [Sobre](https://www.dclick.com.br/2010/09/15/o-que-e-o-maven-e-seus-primeiros-passos-com-a-ferramenta/)
  
- 6- API REST ![Sobre](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
+ 6- API REST [Sobre](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
  
- 7- TDD ![Sobre](https://www.treinaweb.com.br/blog/afinal-o-que-e-tdd/)
+ 7- TDD [Sobre](https://www.treinaweb.com.br/blog/afinal-o-que-e-tdd/)
  
- 8- Swagger 2 ![Sobre](https://medium.com/@ronilsonribeiro/como-interpretar-um-swagger-cdc331b68804)
+ 8- Swagger 2 [Sobre](https://medium.com/@ronilsonribeiro/como-interpretar-um-swagger-cdc331b68804)
 
 
 # Proceso para rodar o projeto
