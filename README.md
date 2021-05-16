@@ -43,7 +43,10 @@ Instalar e configurar o java, caso não esteja segue o link [java](https://mediu
 1- git int na sua pasta que irá baixar o projeto, caso não tenha criado o repositorio local.
 2- git clone https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2.git
 3- Entrar dentro da pasta do projeto br.com.thiago.servico
-3- mvn spring-boot:run
+4- mvn dependency:resolve
+5- mvn dependency:tree
+6- mvn package
+7- mvn spring-boot:run
 ```
 
 # Acesso ao banco H2
