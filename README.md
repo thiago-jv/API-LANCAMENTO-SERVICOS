@@ -39,13 +39,13 @@ Instalar e configurar o java, caso não esteja segue o link [java](https://mediu
  
  9- DTO - Data transfer object [Sobre](https://www.baeldung.com/java-dto-pattern)
  
- 10- MapaStrut ![Sobre](https://www.baeldung.com/mapstruct)
+ 10- MapaStrut [Sobre](https://www.baeldung.com/mapstruct)
  
- 11- Versionamento ![sobre](https://medium.com/gbtech/as-melhores-pr%C3%A1ticas-para-controle-de-vers%C3%B5es-em-apis-rest-c567a4add597)
+ 11- Versionamento [sobre](https://medium.com/gbtech/as-melhores-pr%C3%A1ticas-para-controle-de-vers%C3%B5es-em-apis-rest-c567a4add597)
  
- 12- Junit ![Sobre](https://www.tutorialspoint.com/junit/junit_test_framework.htm)
+ 12- Junit [Sobre](https://www.tutorialspoint.com/junit/junit_test_framework.htm)
  
- 13- Lombok ![Sobre](https://www.baeldung.com/intro-to-project-lombok)
+ 13- Lombok [Sobre](https://www.baeldung.com/intro-to-project-lombok)
 
 
 # Proceso para rodar o projeto
