@@ -15,7 +15,7 @@ Instalar e configurar o java, caso não esteja segue o link [java](https://mediu
 
 # Estrutura do projeto
 
-![Estrutura do Projeto](https://github.com/thiago-jv/thiago-jv-API_Rest-SpringBoot-SpringData-Swagger-TDD-H2/blob/main/Estrutura%20do%20projeto.png)
+![Estrutura do Projeto](https://github.com/thiago-jv/API-LANCAMENTO-SERVICOS/blob/main/estrutura.png)
 
 
 # Tecnologias utilizadas e outros
