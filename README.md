@@ -48,6 +48,8 @@ Instalar e configurar o java, caso não esteja segue o link [java](https://mediu
  13- Lombok [Sobre](https://www.baeldung.com/intro-to-project-lombok)
  
  14- Sprind Test [Sobre](https://www.baeldung.com/spring-boot-testing)
+ 
+ 15 - Optional [Sobre](https://medium.com/@racc.costa/optional-no-java-8-e-no-java-9-7c52c4b797f1)
 
 
 # Proceso para rodar o projeto
