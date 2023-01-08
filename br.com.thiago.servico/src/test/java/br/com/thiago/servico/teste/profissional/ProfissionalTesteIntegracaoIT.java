@@ -9,9 +9,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import br.com.thiago.servico.model.Endereco;
-import br.com.thiago.servico.model.Profissional;
-import br.com.thiago.servico.service.ProfissionalService;
+import br.com.thiago.servico.domain.model.Endereco;
+import br.com.thiago.servico.domain.model.Profissional;
+import br.com.thiago.servico.domain.service.ProfissionalService;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

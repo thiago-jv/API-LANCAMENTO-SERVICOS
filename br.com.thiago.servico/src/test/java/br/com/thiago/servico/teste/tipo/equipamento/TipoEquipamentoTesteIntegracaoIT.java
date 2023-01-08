@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import br.com.thiago.servico.model.TipoEquipamento;
-import br.com.thiago.servico.service.TipoEquipamentoService;
+import br.com.thiago.servico.domain.model.TipoEquipamento;
+import br.com.thiago.servico.domain.service.TipoEquipamentoService;
 
 
 @RunWith(SpringRunner.class)
@@ -22,8 +22,7 @@ public class TipoEquipamentoTesteIntegracaoIT {
 
 	@Test
 	public void salvar() {
-		TipoEquipamento tipoEquipamento = new TipoEquipamento();
-	
+		var tipoEquipamento = new TipoEquipamento();
 		tipoEquipamento.setDescricao("Leve");
 	
 		List<TipoEquipamento> lista = new ArrayList<TipoEquipamento>();
