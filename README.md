@@ -46,6 +46,8 @@ Instalar e configurar o java, caso não esteja segue o link [java](https://mediu
  12- Junit [Sobre](https://www.tutorialspoint.com/junit/junit_test_framework.htm)
  
  13- Lombok [Sobre](https://www.baeldung.com/intro-to-project-lombok)
+ 
+ 14- Sprind Test [Sobre](https://www.baeldung.com/spring-boot-testing)
 
 
 # Proceso para rodar o projeto
