@@ -1,4 +1,4 @@
-Projeto demonstrativo de ordem de serviço, utilizando Spring Boot, Spring Test, Rest Api, Spring Data JPA, Swagger, Maven, H2 Database, TDD, MapStrut, Junit, Versionamento e Lombok.
+Projeto demonstrativo de ordem de serviço, utilizando Spring Boot, Spring Test, Rest Api, Spring Data JPA, Swagger, Maven, H2 Database, TDD, MapStrut, Junit, Versionamento, Lombok e Optional.
 
 
 # Pré-requisitos
